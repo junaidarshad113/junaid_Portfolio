@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/junaid_Portfolio/static/css/main.5facb584.chunk.css",
+    "main.js": "/junaid_Portfolio/static/js/main.15bb3f68.chunk.js",
+    "main.js.map": "/junaid_Portfolio/static/js/main.15bb3f68.chunk.js.map",
+    "runtime-main.js": "/junaid_Portfolio/static/js/runtime-main.73150c2e.js",
+    "runtime-main.js.map": "/junaid_Portfolio/static/js/runtime-main.73150c2e.js.map",
+    "static/js/2.3ef2d018.chunk.js": "/junaid_Portfolio/static/js/2.3ef2d018.chunk.js",
+    "static/js/2.3ef2d018.chunk.js.map": "/junaid_Portfolio/static/js/2.3ef2d018.chunk.js.map",
+    "index.html": "/junaid_Portfolio/index.html",
+    "precache-manifest.2428b8e7f81f9a58aa75c5fd59238e50.js": "/junaid_Portfolio/precache-manifest.2428b8e7f81f9a58aa75c5fd59238e50.js",
+    "service-worker.js": "/junaid_Portfolio/service-worker.js",
+    "static/css/main.5facb584.chunk.css.map": "/junaid_Portfolio/static/css/main.5facb584.chunk.css.map",
+    "static/js/2.3ef2d018.chunk.js.LICENSE.txt": "/junaid_Portfolio/static/js/2.3ef2d018.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.73150c2e.js",
+    "static/js/2.3ef2d018.chunk.js",
+    "static/css/main.5facb584.chunk.css",
+    "static/js/main.15bb3f68.chunk.js"
+  ]
+}
